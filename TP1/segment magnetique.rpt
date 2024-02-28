@@ -1,0 +1,64 @@
+*****************************************************************
+      SolidWorks Corporation - Compte-rendu d'état du Processeur IGES
+*****************************************************************
+=================================================================
+Informations générales
+=================================================================
+Envoi de l'identification du produit système en cours  : segment magnetique.SLDPRT
+Réception de l'identification du produit système en cours: segment magnetique.SLDPRT
+Nom de fichier                    : F:\Travail\POLYTECH\Robotique\TP01\dossier étudiant\segment magnetique.IGS
+Envoi du système en cours               : SolidWorks 2013
+Version du préprocesseur         : SolidWorks 2013
+Date de création du fichier           : 140701.132955
+Date de création du modèle          : 140701.132955
+Unités                        : MM
+Echelle de l'espace modèle            : 1
+Auteur                       : Lilian
+Organisation                 : 
+
+
+=================================================================
+Informations sur le traitement des entités
+=================================================================
+
+
+=================================================================
+Analyse de précision d'un fichier IGES:
+=================================================================
+
+
+=================================================================
+Récapitulatif des entités
+=================================================================
+-----------------------------------------------------------------
+Nom de type                                         Nombre converti
+---- ----                                         ----- ---------
+100  Arc                                              8         8
+110  Line                                            12        12
+116  Point                                            2         2
+120  Surface of revolution                            4         4
+123  Direction                                        4         4
+124  Transformation matrix                            8         8
+186  Manifold Solid B-rep Object                      1         1
+190  Plane surface entity                             2         2
+314  Color definition                                 1         1
+502  Vertex list                                      1         1
+504  Edge entity                                      1         1
+508  Loop entity                                      8         8
+510  Face entity                                      6         6
+514  Shell entity                                     1         1
+_________________________________________________________________
+
+
+=================================================================
+Récapitulatif des résultats
+=================================================================
+Type de fonction SolidWorks                Nombre
+-----------------------                -----
+Fonction(s) volumique(s)                       1
+Fonction(s) surfacique(s)                     0
+Fonction(s) de courbe/d'esquisse                0
+--------------------------------------------
+Heure de début: mercredi, juillet 02, 2014 12:19:13
+Heure de fin: mercredi, juillet 02, 2014 12:19:13
+Durée de traitement: 0 days, 00 hours, 00 mins, 00 secs

@@ -1,0 +1,71 @@
+*****************************************************************
+      SolidWorks Corporation - Compte-rendu d'état du Processeur IGES
+*****************************************************************
+=================================================================
+Informations générales
+=================================================================
+Envoi de l'identification du produit système en cours  : Cache en plastique.SLDPRT
+Réception de l'identification du produit système en cours: Cache en plastique.SLDPRT
+Nom de fichier                    : F:\Travail\POLYTECH\Robotique\TP01\dossier étudiant\Cache en plastique.IGS
+Envoi du système en cours               : SolidWorks 2013
+Version du préprocesseur         : SolidWorks 2013
+Date de création du fichier           : 140701.132552
+Date de création du modèle          : 140701.132552
+Unités                        : MM
+Echelle de l'espace modèle            : 1
+Auteur                       : Lilian
+Organisation                 : 
+
+
+=================================================================
+Informations sur le traitement des entités
+=================================================================
+
+
+=================================================================
+Analyse de précision d'un fichier IGES:
+=================================================================
+  Nombre le plus répandu de chiffres significatifs:              11
+  Nombre le plus grand de chiffres significatifs:                     11
+  Nombre moyen de chiffres significatifs :                6.56595
+  Distance maximale jusqu'à l'origine:                          1018.48
+  Distance minimale jusqu'à l'origine:                                0
+  Nombre effectif de chiffres significatifs:                   11
+
+
+=================================================================
+Récapitulatif des entités
+=================================================================
+-----------------------------------------------------------------
+Nom de type                                         Nombre converti
+---- ----                                         ----- ---------
+100  Arc                                             24        24
+110  Line                                            45        45
+116  Point                                           13        13
+120  Surface of revolution                            8         8
+123  Direction                                       26        26
+124  Transformation matrix                            8         8
+126  Rational B-spline curve                          6         6
+186  Manifold Solid B-rep Object                      1         1
+190  Plane surface entity                            13        13
+314  Color definition                                 1         1
+502  Vertex list                                      1         1
+504  Edge entity                                      1         1
+508  Loop entity                                     22        22
+510  Face entity                                     21        21
+514  Shell entity                                     1         1
+_________________________________________________________________
+
+
+=================================================================
+Récapitulatif des résultats
+=================================================================
+Type de fonction SolidWorks                Nombre
+-----------------------                -----
+Fonction(s) volumique(s)                       1
+Fonction(s) surfacique(s)                     0
+Fonction(s) de courbe/d'esquisse                0
+--------------------------------------------
+Heure de début: mercredi, juillet 02, 2014 12:16:00
+Heure de fin: mercredi, juillet 02, 2014 12:16:00
+Durée de traitement: 0 days, 00 hours, 00 mins, 00 secs

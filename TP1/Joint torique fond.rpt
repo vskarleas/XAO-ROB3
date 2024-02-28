@@ -1,0 +1,67 @@
+*****************************************************************
+      SolidWorks Corporation - Compte-rendu d'état du Processeur IGES
+*****************************************************************
+=================================================================
+Informations générales
+=================================================================
+Envoi de l'identification du produit système en cours  : Joint torique fond.SLDPRT
+Réception de l'identification du produit système en cours: Joint torique fond.SLDPRT
+Nom de fichier                    : F:\Travail\POLYTECH\Robotique\TP01\dossier étudiant\Joint torique fond.IGS
+Envoi du système en cours               : SolidWorks 2013
+Version du préprocesseur         : SolidWorks 2013
+Date de création du fichier           : 140701.132855
+Date de création du modèle          : 140701.132855
+Unités                        : MM
+Echelle de l'espace modèle            : 1
+Auteur                       : Lilian
+Organisation                 : 
+
+
+=================================================================
+Informations sur le traitement des entités
+=================================================================
+
+
+=================================================================
+Analyse de précision d'un fichier IGES:
+=================================================================
+  Nombre le plus répandu de chiffres significatifs:               1
+  Nombre le plus grand de chiffres significatifs:                      4
+  Nombre moyen de chiffres significatifs :                2.35294
+  Distance maximale jusqu'à l'origine:                          1000.12
+  Distance minimale jusqu'à l'origine:                            15.25
+  Nombre effectif de chiffres significatifs:              3.98675
+
+
+=================================================================
+Récapitulatif des entités
+=================================================================
+-----------------------------------------------------------------
+Nom de type                                         Nombre converti
+---- ----                                         ----- ---------
+100  Arc                                             12        12
+110  Line                                             4         4
+120  Surface of revolution                            4         4
+124  Transformation matrix                           12        12
+186  Manifold Solid B-rep Object                      1         1
+314  Color definition                                 1         1
+502  Vertex list                                      1         1
+504  Edge entity                                      1         1
+508  Loop entity                                      4         4
+510  Face entity                                      4         4
+514  Shell entity                                     1         1
+_________________________________________________________________
+
+
+=================================================================
+Récapitulatif des résultats
+=================================================================
+Type de fonction SolidWorks                Nombre
+-----------------------                -----
+Fonction(s) volumique(s)                       1
+Fonction(s) surfacique(s)                     0
+Fonction(s) de courbe/d'esquisse                0
+--------------------------------------------
+Heure de début: mercredi, juillet 02, 2014 12:17:59
+Heure de fin: mercredi, juillet 02, 2014 12:17:59
+Durée de traitement: 0 days, 00 hours, 00 mins, 00 secs
